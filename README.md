@@ -1,2 +1,2 @@
  index.html
-    Flight confirmation website
+    flight confirmation website
